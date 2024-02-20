@@ -2,12 +2,12 @@
 
 -- Nmap results:
 
-22 SSH
-80 Apache 2.4.18 Webserver
-139 Samba shares
-445 Samba shares
-8009 ??
-8080 Webserver
+22 SSH\
+80 Apache 2.4.18 Webserver\
+139 Samba shares\
+445 Samba shares\
+8009 ??\
+8080 Webserver\
 
 ![afbeelding](https://github.com/PingBackHome/THM-writeups/assets/115549820/5a136450-10e7-4773-8268-0ca6e88008b0)
 
